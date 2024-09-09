@@ -13,6 +13,6 @@ public class Demo2Application {
 		System.out.println("bye");
 	}
 	public void hi(){
-
+		System.out.println("test lan cuoi");
 	}
 }
